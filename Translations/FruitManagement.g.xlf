@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="FruitManagement">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2802145617 - Field 3059941347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Carrier Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCCarrierCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 3402252822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Carrier Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCCarrierDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 4009368635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCEntryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 3883415988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCEntryDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 541169907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCEntryTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 861516189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input Units</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCInputUnits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 738760473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plantation Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCPlantationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 1027703723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variety Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCVarietyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 1556770446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variety Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCVarietyDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 3669839755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCVendorCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 2695099941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCVendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 337986596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCWarehouseCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2802145617 - Field 599866229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weight Unit Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCEntrys - Field EFCWeightUnitCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 640422492 - Field 3612436342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Estate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCFruitVariety - Field EFCEstate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 640422492 - Field 1027703723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCFruitVariety - Field EFCVarietyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 640422492 - Field 1556770446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCFruitVariety - Field EFCVarietyDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 2732290664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCDescriptionPlantation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 2843340020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discharge Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCDischargeDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 738760473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCPlantationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 1315637990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plots Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCPlotCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 4287445114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Plantations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCStatePlantations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 2395116615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Surface</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCSurface - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 3080690402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Surface Unit Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCSurfaceUnitCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 1027703723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variety Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCVarietyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 1556770446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variety Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCVarietyDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1097446499 - Field 3669839755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlantations - Field EFCVendorCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 154636016 - Field 1176213807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlots - Field EFCCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 154636016 - Field 1369321986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlots - Field EFCDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 154636016 - Field 3669839755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlots - Field EFCVendorCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 154636016 - Field 2695099941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCPlots - Field EFCVendorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Entry Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 4017446251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Carrier Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control CarrierCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 3583323086 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Carrier Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control CarrierDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 1034231699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control EntryCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 2679550588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control EntryDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 1289724763 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Time field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control EntryTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 3417407909 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Inputs Units field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control InputUnits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 1943266657 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plantation Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control PlantationCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 3762584419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control VarietyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 665342358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control VarietyDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 779730061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control VendorName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 238595964 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Warehouse Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control WarehouseCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1659097724 - Control 428597741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Weight Unit Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntryCard - Control WeightUnitCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Entry List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 4017446251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Carrier Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control CarrierCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 3583323086 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Carrier Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control CarrierDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 1034231699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control EntryCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 2679550588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control EntryDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 1289724763 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry Time field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control EntryTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 3417407909 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Inputs Units field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control InputUnits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 1943266657 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plantation Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control PlantationCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 3762584419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control VarietyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 665342358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control VarietyDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 779730061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control VendorName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 238595964 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Warehouse Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control WarehouseCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1079466199 - Control 428597741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Weight Unit Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCEntrysList - Control WeightUnitCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 2426796238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entrys</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action eEntrys - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 848732861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fruit Variety</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action eFruitVarieties - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 1266779513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plantation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action ePlantation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 26505923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plots</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action ePlots - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 2502223353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entrys</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action Entrys - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 1572708512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Master Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action MasterData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 630009322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fruit Variety</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action FruitVarieties - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 3958329934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plantation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action Plantation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1114428420 - Action 219777720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plots</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitManagementRoleCenter - Action Plots - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Fruit Varieties</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Genreral</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 1176213807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control EFCCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 1176213807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control EFCCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 1369321986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control EFCDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 1369321986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control EFCDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 3612436342 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the State field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control EFCEstate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3471486098 - Control 3612436342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCFruitVarieties - Control EFCEstate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Plantation Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 1465982652 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discharge Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control DischargeDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 2987800830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plots Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control PlotCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 2549536882 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the State Plantations field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control StatePlantations - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 2031990735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Surface field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control Surface - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 2577116538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Surface Unit Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control SurfaceUnitCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 3762584419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control VarietyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 665342358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control VarietyDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3324511994 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plots Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationCard - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Plantations List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 1465982652 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discharge Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control DischargeDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 1943266657 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control PlantationCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 2987800830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plots Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control PlotCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 2549536882 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the State Plantations field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control StatePlantations - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 2031990735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Surface field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control Surface - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 2577116538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Surface Unit Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control SurfaceUnitCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 3762584419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control VarietyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 665342358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control VarietyDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3890590477 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlantationsList - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1821732988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Plot Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1821732988 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsCard - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1821732988 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsCard - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1821732988 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsCard - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1821732988 - Control 779730061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsCard - Control VendorName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1217740122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Plots</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1217740122 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsList - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1217740122 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsList - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1217740122 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsList - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1217740122 - Control 779730061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsList - Control VendorName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Plots Subpage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 1465982652 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discharge Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control DischargeDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 1943266657 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control PlantationCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 2987800830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plots Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control PlotCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 2549536882 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the State Plantations field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control StatePlantations - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 2031990735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Surface field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control Surface - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 2577116538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Surface Unit Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control SurfaceUnitCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 3762584419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control VarietyCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 665342358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Variety Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control VarietyDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1913672037 - Control 819533251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCPlotsSubpage - Control VendorCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2493538433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Entry Fruit by Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EFCEntryFruitbyVendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2493538433 - ReportLayout 2493538433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Entry Fruit by Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EFCEntryFruitbyVendor - ReportLayout EFCEntryFruitbyVendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1514034112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Friut Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile EFCFruitManagementProfile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1514034112 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mantenimiento de Hortofrutícola</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile EFCFruitManagementProfile - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Enum 2770321668 - EnumValue 437872260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discharged</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum EFCEnumStateVariety - EnumValue Discharged - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2770321668 - EnumValue 1052239488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Withdrawn</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum EFCEnumStateVariety - EnumValue Withdrawn - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
